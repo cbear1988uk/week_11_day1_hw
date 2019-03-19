@@ -1,6 +1,7 @@
 public class WaterBottle {
 
     private int volume;
+//    constructor
 
     public WaterBottle(int volume){
         this.volume = volume;
